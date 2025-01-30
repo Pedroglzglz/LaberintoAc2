@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|c:\\users\\pedro gonz\u00E1lez\\laberintoact2\\assets\\scripts\\puerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\canvasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\playerdynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerdynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\textofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\textofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\cambiocamarafinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cambiocamarafinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\crono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\vida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\comportamientopuntos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\comportamientopuntos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\pinchos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pinchos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\saltonopermitido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saltonopermitido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\paredesrestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\paredesrestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\menucontroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menucontroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\cambiovelocidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cambiovelocidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\velocidadrampa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\velocidadrampa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\boton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\cerrarpared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cerrarpared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\cambiocamarabajada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cambiocamarabajada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\cambiocamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cambiocamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\destruirpinchos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destruirpinchos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\cambiovelocidadizq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cambiovelocidadizq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\cambiocamarapiso-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cambiocamarapiso-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\impulsador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\impulsador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\cambiocamaratunel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cambiocamaratunel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\botonpulsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\botonpulsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\assets\\scripts\\gamemanagerso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9AC237-5A9C-476D-8AB2-9E75516F56E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanagerso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextoFinal.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\TextoFinal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextoFinal.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\TextoFinal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextoFinal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:18:02.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CanvasManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CanvasManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CanvasManager.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CanvasManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CanvasManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:41:42.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vida.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\Vida.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Vida.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\Vida.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Vida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:11:16.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Crono.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\Crono.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Crono.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\Crono.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Crono.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:02:45.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CambioCamaraFinal.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CambioCamaraFinal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CambioCamaraFinal.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CambioCamaraFinal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CambioCamaraFinal.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:27:08.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaltoNoPermitido.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\SaltoNoPermitido.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaltoNoPermitido.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\SaltoNoPermitido.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaltoNoPermitido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:07:03.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ParedesRestart.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\ParedesRestart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParedesRestart.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\ParedesRestart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParedesRestart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:20:29.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerDynamics.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\PlayerDynamics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerDynamics.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\PlayerDynamics.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerDynamics.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:20:26.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pinchos.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\Pinchos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pinchos.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\Pinchos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pinchos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:44:13.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComportamientoPuntos.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\ComportamientoPuntos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ComportamientoPuntos.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\ComportamientoPuntos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ComportamientoPuntos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:56:11.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Puerta.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\Puerta.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puerta.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\Puerta.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puerta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:49:21.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuControles.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\MenuControles.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuControles.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\MenuControles.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuControles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:27:04.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CambioVelocidad.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CambioVelocidad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CambioVelocidad.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CambioVelocidad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CambioVelocidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:51:33.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VelocidadRampa.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\VelocidadRampa.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VelocidadRampa.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\VelocidadRampa.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VelocidadRampa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:15:01.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DestruirPinchos.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\DestruirPinchos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestruirPinchos.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\DestruirPinchos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestruirPinchos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T15:44:54.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CerrarPared.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CerrarPared.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CerrarPared.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CerrarPared.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CerrarPared.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:26:13.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CambioCamaraBajada.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CambioCamaraBajada.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CambioCamaraBajada.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CambioCamaraBajada.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CambioCamaraBajada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:19:44.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Boton.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\Boton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boton.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\Boton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boton.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:34:20.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CambioVelocidadIzq.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CambioVelocidadIzq.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CambioVelocidadIzq.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CambioVelocidadIzq.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CambioVelocidadIzq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:21:00.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CambioCamar.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CambioCamar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CambioCamar.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CambioCamar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CambioCamar.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:35:42.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CambioCamaraPiso-1.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CambioCamaraPiso-1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CambioCamaraPiso-1.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CambioCamaraPiso-1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CambioCamaraPiso-1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:38:05.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Impulsador.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\Impulsador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Impulsador.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\Impulsador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Impulsador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:55:40.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BotonPulsable.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\BotonPulsable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BotonPulsable.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\BotonPulsable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BotonPulsable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:30:43.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CambioCamaraTunel.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CambioCamaraTunel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CambioCamaraTunel.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\CambioCamaraTunel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CambioCamaraTunel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:28:45.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GameManagerSO.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\GameManagerSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManagerSO.cs",
+              "ToolTip": "C:\\Users\\Pedro Gonz\u00E1lez\\LaberintoAct2\\Assets\\Scripts\\GameManagerSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManagerSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:42:23.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
